@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "json-server": "^0.16.3",
+    "prettier-eslint": "^15.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-feather": "^2.0.9",
